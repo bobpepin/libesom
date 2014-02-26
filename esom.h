@@ -1,0 +1,10 @@
+#include <esom/Data.h>
+#include <esom/ESOM.h>
+#include <esom/Grid.h>
+#include <esom/SOM.h>
+#include <esom/UMatrix.h>
+#include <esom/Watershed.h>
+#include <esom/Distance.h>
+#include <esom/Cooling.h>
+#include <esom/Neighbourhood.h>
+#include <esom/BestMatch.h>

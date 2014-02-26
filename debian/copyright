@@ -1,0 +1,12 @@
+Format: http://dep.debian.net/deps/dep5
+Upstream-Name: libesom
+Source: <url://example.com>
+
+Files: *
+Copyright: 2011 Bob Pepin <bob.pepin@gmail.com>
+License: Apache-2.0
+
+Files: debian/*
+Copyright: 2011 Bob Pepin <bob.pepin@gmail.com>
+License: Apache-2.0
+
